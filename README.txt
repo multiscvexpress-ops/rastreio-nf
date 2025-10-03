@@ -1,0 +1,1 @@
+Deploy por Upload: este pacote inclui vercel.json para ativar /api.
